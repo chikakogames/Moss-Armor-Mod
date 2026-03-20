@@ -1,0 +1,326 @@
+{
+  "mod_elements": [
+    {
+      "name": "MossArmor",
+      "type": "armor",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "moss_armor",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/moss_armor/models/item/moss_armor_boots.json",
+          "src/main/resources/assets/moss_armor/models/item/moss_armor_leggings.json",
+          "src/main/java/net/mcreator/mossarmor/item/MossArmorItem.java",
+          "src/main/resources/assets/moss_armor/models/item/moss_armor_helmet.json",
+          "src/main/resources/assets/moss_armor/models/item/moss_armor_chestplate.json"
+        ]
+      },
+      "path": "~/tools"
+    },
+    {
+      "name": "PickaxeRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pickaxe_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/moss_armor/recipes/pickaxe_recipe.json"
+        ]
+      },
+      "path": "~/craft"
+    },
+    {
+      "name": "SwordRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sword_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/moss_armor/recipes/sword_recipe.json"
+        ]
+      },
+      "path": "~/craft"
+    },
+    {
+      "name": "MossPart",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "moss_part",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/moss_armor/models/item/moss_part.json",
+          "src/main/java/net/mcreator/mossarmor/item/MossPartItem.java"
+        ]
+      },
+      "path": "~/tools"
+    },
+    {
+      "name": "ShovelRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "shovel_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/moss_armor/recipes/shovel_recipe.json"
+        ]
+      },
+      "path": "~/craft"
+    },
+    {
+      "name": "HoeRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hoe_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/moss_armor/recipes/hoe_recipe.json"
+        ]
+      },
+      "path": "~/craft"
+    },
+    {
+      "name": "AxeRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "axe_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/moss_armor/recipes/axe_recipe.json"
+        ]
+      },
+      "path": "~/craft"
+    },
+    {
+      "name": "HelmetR",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "helmet_r",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/moss_armor/recipes/helmet_r.json"
+        ]
+      },
+      "path": "~/craft"
+    },
+    {
+      "name": "ChestplateR",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chestplate_r",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/moss_armor/recipes/chestplate_r.json"
+        ]
+      },
+      "path": "~/craft"
+    },
+    {
+      "name": "LeggingsR",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "leggings_r",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/moss_armor/recipes/leggings_r.json"
+        ]
+      },
+      "path": "~/craft"
+    },
+    {
+      "name": "ShoesR",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "shoes_r",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/moss_armor/recipes/boots_recipes_moss.json"
+        ]
+      },
+      "path": "~/craft"
+    },
+    {
+      "name": "MossCraft",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "moss_craft",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/moss_armor/recipes/moss_craft.json"
+        ]
+      },
+      "path": "~/craft"
+    },
+    {
+      "name": "MossPartCraft",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "moss_part_craft",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/moss_armor/recipes/moss_part_craft.json"
+        ]
+      },
+      "path": "~/craft"
+    },
+    {
+      "name": "MossUtilities",
+      "type": "tab",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "moss_utilities",
+      "metadata": {
+        "files": []
+      }
+    },
+    {
+      "name": "MossSword",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "moss_sword",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/mossarmor/item/MossSwordItem.java",
+          "src/main/resources/assets/moss_armor/models/item/moss_sword.json"
+        ]
+      },
+      "path": "~/tools"
+    },
+    {
+      "name": "MossAxe",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "moss_axe",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/mossarmor/item/MossAxeItem.java",
+          "src/main/resources/assets/moss_armor/models/item/moss_axe.json"
+        ]
+      },
+      "path": "~/tools"
+    },
+    {
+      "name": "MossPickaxe",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "moss_pickaxe",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/moss_armor/models/item/moss_pickaxe.json",
+          "src/main/java/net/mcreator/mossarmor/item/MossPickaxeItem.java"
+        ]
+      },
+      "path": "~/tools"
+    },
+    {
+      "name": "MossShovel",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "moss_shovel",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/mossarmor/item/MossShovelItem.java",
+          "src/main/resources/assets/moss_armor/models/item/moss_shovel.json"
+        ]
+      },
+      "path": "~/tools"
+    },
+    {
+      "name": "MossHoe",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "moss_hoe",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/mossarmor/item/MossHoeItem.java",
+          "src/main/resources/assets/moss_armor/models/item/moss_hoe.json"
+        ]
+      },
+      "path": "~/tools"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "tag_elements": {
+    "ITEMS:minecraft:swords": [],
+    "ITEMS:minecraft:axes": [],
+    "ITEMS:minecraft:shovels": [],
+    "ITEMS:minecraft:hoes": [],
+    "ITEMS:minecraft:pickaxes": []
+  },
+  "tab_element_order": {},
+  "language_map": {
+    "en_us": {
+      "item.moss_armor.moss_armor_chestplate": "Moss Chestplate",
+      "item.moss_armor.moss_armor_leggings": "Moss Leggings",
+      "item.moss_armor.moss_armor_helmet": "Moss Helmet",
+      "item.moss_armor.moss_armor_boots": "Moss Boots",
+      "item.moss_armor.moss_part": "Moss Part",
+      "item_group.moss_armor.moss_utilities": "Moss Utilities",
+      "item.moss_armor.moss_sword": "Moss Sword",
+      "item.moss_armor.moss_axe": "Moss Axe",
+      "item.moss_armor.moss_pickaxe": "Moss Pickaxe",
+      "item.moss_armor.moss_shovel": "Moss Shovel",
+      "item.moss_armor.moss_hoe": "Moss Hoe"
+    }
+  },
+  "metadata": {
+    "files": [
+      "src/main/java/net/mcreator/mossarmor/ClientInit.java",
+      "src/main/java/net/mcreator/mossarmor/MossArmorMod.java",
+      "src/main/resources/moss_armor.mixins.json",
+      "src/main/resources/fabric.mod.json",
+      "src/main/resources/moss_armor.accesswidener",
+      "src/main/resources/pack.mcmeta",
+      "src/main/java/net/mcreator/mossarmor/init/MossArmorModTabs.java",
+      "src/main/java/net/mcreator/mossarmor/mixins/MossArmorModRepairItemRecipeMixin.java",
+      "src/main/java/net/mcreator/mossarmor/init/MossArmorModItems.java"
+    ]
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": [
+      {
+        "name": "craft",
+        "children": []
+      },
+      {
+        "name": "tools",
+        "children": []
+      }
+    ]
+  },
+  "workspaceSettings": {
+    "modid": "moss_armor",
+    "modName": "moss armor",
+    "version": "1.0.0",
+    "author": "MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Not specified",
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.20.1",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.mossarmor"
+  },
+  "mcreatorVersion": 202500228610
+}

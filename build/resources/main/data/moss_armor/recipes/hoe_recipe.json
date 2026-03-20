@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "moss_armor:moss_part"
+    },
+    {
+      "item": "moss_armor:moss_part"
+    },
+    {
+      "item": "minecraft:stick"
+    },
+    {
+      "item": "minecraft:stick"
+    }
+  ],
+  "result": {
+    "item": "moss_armor:moss_hoe",
+    "count": 1
+  }
+}

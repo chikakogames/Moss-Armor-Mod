@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "moss_armor:item/moss_hoe"
+  }
+}

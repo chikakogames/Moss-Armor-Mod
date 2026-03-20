@@ -1,0 +1,11 @@
+{
+  "_fv": 79,
+  "_type": "tab",
+  "definition": {
+    "name": "Moss Utilities",
+    "icon": {
+      "value": "CUSTOM:MossPart"
+    },
+    "showSearch": false
+  }
+}
